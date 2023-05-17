@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Game/BP_MCPC.uasset",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Game/Input/IA_Attack.uasset",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Characters/BP_MC.uasset",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Game/Input/IA_Dash.uasset",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Maps/Simon/Blank.umap",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Game/Input/IA_Parry.uasset",
+				"D:/Blueberry Mountain Studio/BossfightProjekt/BossFightProject/Content/Game/Input/IA_Jump.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/Input/IA_Move_Right.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/Input/IA_Move.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/Input/IA_Attack.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/Input/IA_Parry.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/Input/IA_Dash.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/IMC_Main.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/BP_MCPC.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/FL_BBMG_Functions.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Libraries/FL_BBMG_Functions.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Characters/BP_Enemy.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Characters/BP_MC.uasset",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Maps/Simon/Blank.umap",
+				"D:/Blueberry Mountain Studio/BrambleBell/BossFightProject/Content/Game/BP_GM.uasset"
+			]
+		}
+	]
+}
