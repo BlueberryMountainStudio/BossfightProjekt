@@ -1264,3 +1264,85 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.22-10.11.15:794][918]LogContentValidation: Display: Validating /Script/Engine.World /Game/Widgets/MainMenuLevel.MainMenuLevel
 [2023.05.22-10.11.18:146][ 58]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2023.05.22-10.11.18:187][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.22-10.30.51:055][352]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.05.22-10.30.51:060][352]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.05.22-10.30.51:067][353]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.05.22-10.31.00:655][928]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_ButtonDown
+[2023.05.22-10.31.00:658][928]LogContentBrowser: End creating deferred item NewInputAction
+[2023.05.22-10.31.03:437][ 94]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Game/Input/IA_ButtonDown.IA_ButtonDown
+[2023.05.22-10.31.09:311][395]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.05.22-10.31.09:316][395]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.05.22-10.31.09:324][396]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.05.22-10.31.16:540][829]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_ButtonUp
+[2023.05.22-10.31.16:541][829]LogContentBrowser: End creating deferred item NewInputAction
+[2023.05.22-10.31.20:462][ 45]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.05.22-10.31.20:467][ 45]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.05.22-10.31.20:474][ 46]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.05.22-10.32.34:063][461]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_ButtonPress
+[2023.05.22-10.32.34:063][461]LogContentBrowser: End creating deferred item NewInputAction
+[2023.05.22-10.32.38:343][716]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Game/Input/IA_ButtonUp.IA_ButtonUp
+[2023.05.22-10.32.43:146][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.22-10.32.44:009][999]LogSlate: Window 'Save Content' being destroyed
+[2023.05.22-10.32.44:020][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.32.44:101][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Input/IA_ButtonDown" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonDown.uasset" SILENT=true
+[2023.05.22-10.32.44:102][999]LogSavePackage: Moving output files for package: /Game/Game/Input/IA_ButtonDown
+[2023.05.22-10.32.44:102][999]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IA_ButtonDown82175F7940857B6D3F96B3B227086EF3.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonDown.uasset'
+[2023.05.22-10.32.44:103][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Input/IA_ButtonPress" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonPress.uasset" SILENT=true
+[2023.05.22-10.32.44:103][999]LogSavePackage: Moving output files for package: /Game/Game/Input/IA_ButtonPress
+[2023.05.22-10.32.44:103][999]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IA_ButtonPress4B9F30A7473A2C6B3501E7BF8D3BF163.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonPress.uasset'
+[2023.05.22-10.32.44:104][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Input/IA_ButtonUp" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonUp.uasset" SILENT=true
+[2023.05.22-10.32.44:105][999]LogSavePackage: Moving output files for package: /Game/Game/Input/IA_ButtonUp
+[2023.05.22-10.32.44:105][999]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IA_ButtonUpA83E3FDC4DB58AABD89358A393792082.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonUp.uasset'
+[2023.05.22-10.32.44:112][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.21 sec)
+[2023.05.22-10.32.44:117][999]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.22-10.32.44:117][999]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Game/Input/IA_ButtonPress.IA_ButtonPress
+[2023.05.22-10.32.44:118][999]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Game/Input/IA_ButtonUp.IA_ButtonUp
+[2023.05.22-10.32.44:118][999]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Game/Input/IA_ButtonDown.IA_ButtonDown
+[2023.05.22-10.32.50:976][401]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-10.32.50:977][401]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-10.32.50:977][401]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-10.33.01:891][ 52]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Game/Input/IA_Attack.IA_Attack
+[2023.05.22-10.33.11:177][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.33.11:233][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Input/IA_ButtonDown" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonDown.uasset" SILENT=true
+[2023.05.22-10.33.11:234][598]LogSavePackage: Moving output files for package: /Game/Game/Input/IA_ButtonDown
+[2023.05.22-10.33.11:234][598]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IA_ButtonDown6E35A1C94C61CFFB1AF4E0B6AD423361.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/Input/IA_ButtonDown.uasset'
+[2023.05.22-10.33.11:244][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.28 sec)
+[2023.05.22-10.33.11:250][598]AssetCheck: New page: Asset Save: IA_ButtonDown
+[2023.05.22-10.33.11:250][598]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Game/Input/IA_ButtonDown.IA_ButtonDown
+[2023.05.22-10.33.16:381][904]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Game/IMC_Main.IMC_Main
+[2023.05.22-10.34.18:233][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.22-10.34.18:235][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Widgets/MainMenuLevel' took 0.038
+[2023.05.22-10.34.18:235][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/IMC_Main] ([1] browsable assets)...
+[2023.05.22-10.34.18:235][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/IMC_Main]
+[2023.05.22-10.34.18:235][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/IMC_Main" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/Autosaves/Game/Game/IMC_Main_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.05.22-10.34.18:237][551]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game/IMC_Main_Auto1
+[2023.05.22-10.34.18:237][551]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IMC_Main_Auto145625FF644334C8118CC2F8FB0D6203C.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/Autosaves/Game/Game/IMC_Main_Auto1.uasset'
+[2023.05.22-10.34.18:237][551]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.05.22-10.34.45:235][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.34.45:293][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/IMC_Main" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset" SILENT=true
+[2023.05.22-10.34.45:295][160]LogSavePackage: Moving output files for package: /Game/Game/IMC_Main
+[2023.05.22-10.34.45:296][160]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IMC_Main405245D941CE6CC6C7D8109EFAC3EBEE.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset'
+[2023.05.22-10.34.45:302][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.34 sec)
+[2023.05.22-10.34.45:308][160]AssetCheck: New page: Asset Save: IMC_Main
+[2023.05.22-10.34.45:308][160]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Game/IMC_Main.IMC_Main
+[2023.05.22-10.35.05:445][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.35.05:509][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/IMC_Main" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset" SILENT=true
+[2023.05.22-10.35.05:510][351]LogSavePackage: Moving output files for package: /Game/Game/IMC_Main
+[2023.05.22-10.35.05:511][351]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IMC_Main691EC1E54D506E9693F5EAB71B7A3E9D.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset'
+[2023.05.22-10.35.05:517][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.42 sec)
+[2023.05.22-10.35.05:523][351]AssetCheck: New page: Asset Save: IMC_Main
+[2023.05.22-10.35.05:523][351]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Game/IMC_Main.IMC_Main
+[2023.05.22-10.35.48:623][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.35.48:701][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/IMC_Main" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset" SILENT=true
+[2023.05.22-10.35.48:703][882]LogSavePackage: Moving output files for package: /Game/Game/IMC_Main
+[2023.05.22-10.35.48:704][882]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IMC_Main32703ABC4A7101305A3941B841BDA59B.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset'
+[2023.05.22-10.35.48:711][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.50 sec)
+[2023.05.22-10.35.48:716][882]AssetCheck: New page: Asset Save: IMC_Main
+[2023.05.22-10.35.48:717][882]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Game/IMC_Main.IMC_Main
+[2023.05.22-10.35.49:056][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.35.49:128][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/IMC_Main" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset" SILENT=true
+[2023.05.22-10.35.49:130][903]LogSavePackage: Moving output files for package: /Game/Game/IMC_Main
+[2023.05.22-10.35.49:131][903]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/IMC_Main5F7236C74384EC8321871385AE058D5D.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Game/IMC_Main.uasset'
+[2023.05.22-10.35.49:137][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.58 sec)
+[2023.05.22-10.35.49:141][903]AssetCheck: New page: Asset Save: IMC_Main
+[2023.05.22-10.35.49:142][903]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Game/IMC_Main.IMC_Main
