@@ -1881,3 +1881,82 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.05.22-08.52.58:935][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 404 ms)
 [2023.05.22-08.52.58:938][429]AssetCheck: New page: Asset Save: TestMap_Lee
 [2023.05.22-08.52.58:938][429]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Lee/TestMap_Lee.TestMap_Lee
+[2023.05.22-08.55.48:091][249]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.22-08.55.48:102][249]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.22-08.55.48:108][250]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.22-08.55.49:905][358]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2023.05.22-08.55.49:906][358]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.22-08.58.43:202][226]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-08.58.43:202][226]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-08.58.43:202][226]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-08.58.44:690][226]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.05.22-08.58.44:696][226]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.05.22-08.58.44:699][226]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.05.22-08.58.44:729][228]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.05.22-08.58.54:839][834]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_MainMenu
+[2023.05.22-08.58.54:854][834]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.05.22-08.58.56:551][935]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-08.58.56:552][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-08.58.56:560][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-08.58.56:566][935]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.05.22-08.58.57:636][935]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.22-08.58.57:636][935]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.22-08.58.57:825][935]LogSlate: Took 0.003743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.22-08.58.57:833][935]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.05.22-08.58.57:838][935]LogSlate: Took 0.003952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.22-08.58.58:564][964]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-08.58.58:621][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.22-08.58.59:109][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-08.58.59:186][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-08.58.59:189][991]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-08.58.59:189][991]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu7D784ADA4AFAE595F30823A67A4606C8.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-08.58.59:197][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 493 ms)
+[2023.05.22-08.58.59:204][991]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-08.58.59:204][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-08.59.00:504][ 60]LogSlate: Window 'WB_MainMenu' being destroyed
+[2023.05.22-09.00.14:560][168]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.00.14:603][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.22-09.00.15:039][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.00.15:096][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.00.15:099][190]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.00.15:100][190]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu59C79BB0451A70CCDA2994A44132FC77.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.00.15:106][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 561 ms)
+[2023.05.22-09.00.15:111][190]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.00.15:111][190]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.00.24:466][744]LogEditorTransaction: Undo Resize Widget
+[2023.05.22-09.05.09:799][347]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.05.09:851][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.22-09.05.10:616][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.05.10:680][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.05.10:685][388]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.05.10:685][388]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu97C089294DBBB5B16F78DFAAA55DFC84.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.05.10:692][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 637 ms)
+[2023.05.22-09.05.10:697][388]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.05.10:697][388]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.05.40:078][138]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.05.40:125][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.22-09.05.40:878][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.05.40:936][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.05.40:941][179]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.05.40:941][179]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuCC9F82534C4E01BCFA11AB9252DB6AA7.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.05.40:948][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 707 ms)
+[2023.05.22-09.05.40:953][179]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.05.40:953][179]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.10.14:773][172]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.10.14:820][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.22-09.10.15:470][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.10.15:536][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.10.15:540][205]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.10.15:540][205]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu92CC60FC44083E59AD7F9992E99AAC92.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.10.15:546][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 784 ms)
+[2023.05.22-09.10.15:554][205]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.10.15:554][205]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.10.18:123][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.10.18:174][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lee/TestMap_Lee" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Maps/Lee/TestMap_Lee.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.22-09.10.18:203][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.22-09.10.18:232][354]LogSavePackage: Moving output files for package: /Game/Maps/Lee/TestMap_Lee
+[2023.05.22-09.10.18:234][354]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/TestMap_Lee517D7AEB40BC9153E5461ABC9298C674.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Maps/Lee/TestMap_Lee.umap'
+[2023.05.22-09.10.18:243][354]LogFileHelpers: Saving map 'TestMap_Lee' took 0.069
+[2023.05.22-09.10.18:250][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 910 ms)
+[2023.05.22-09.10.18:255][354]AssetCheck: New page: Asset Save: TestMap_Lee
+[2023.05.22-09.10.18:256][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Lee/TestMap_Lee.TestMap_Lee
