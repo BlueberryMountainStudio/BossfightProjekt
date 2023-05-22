@@ -1960,3 +1960,243 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.05.22-09.10.18:250][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 910 ms)
 [2023.05.22-09.10.18:255][354]AssetCheck: New page: Asset Save: TestMap_Lee
 [2023.05.22-09.10.18:256][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Lee/TestMap_Lee.TestMap_Lee
+[2023.05.22-09.11.55:206][314]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.11.55:250][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.22-09.11.55:648][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.11.55:706][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.11.55:710][336]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.11.55:710][336]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu3867C1EC42541F6574D1E1B720441B89.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.11.55:715][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 978 ms)
+[2023.05.22-09.11.55:722][336]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.11.55:722][336]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.12.53:478][591]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.12.53:525][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.22-09.12.54:207][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.12.54:270][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.12.54:275][630]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.12.54:275][630]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu5C754C3C47E21F82F1C18697A73B2D6B.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.12.54:283][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.05 sec)
+[2023.05.22-09.12.54:288][630]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.12.54:288][630]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.13.00:395][920]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.22-09.13.00:402][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-09.13.00:402][920]PIE: New page: PIE session: TestMap_Lee (22.05.2023, 13:13:00)
+[2023.05.22-09.13.00:402][920]LogPlayLevel: Creating play world package: /Game/Maps/Lee/UEDPIE_0_TestMap_Lee
+[2023.05.22-09.13.00:409][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007004s)
+[2023.05.22-09.13.00:409][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lee/TestMap_Lee.TestMap_Lee to /Game/Maps/Lee/UEDPIE_0_TestMap_Lee.TestMap_Lee (0.007043s)
+[2023.05.22-09.13.00:409][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-09.13.00:410][920]LogAIModule: Creating AISystem for world TestMap_Lee
+[2023.05.22-09.13.00:410][920]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2023.05.22-09.13.00:442][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.05.22-09.13.00:444][920]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.22-09.13.00:444][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.22-09.13.00:444][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-09.13.00:444][920]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-09.13.00:444][920]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-09.13.00:444][920]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-09.13.00:447][920]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.22-09.13.00:466][920]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.05.22-09.13.00:466][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-09.13.00:467][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-09.13.00:467][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-09.13.00:468][920]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.05.22-09.13.00:468][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.05.22-09.13.00:470][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.05.22-09.13.00:470][920]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.05.22-09.13.00:470][920]LogInit: FAudioDevice initialized.
+[2023.05.22-09.13.00:470][920]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap_Lee'.
+[2023.05.22-09.13.00:546][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-09.13.00:547][920]LogLoad: Game class is 'BP_GM_C'
+[2023.05.22-09.13.00:549][920]LogWorld: Bringing World /Game/Maps/Lee/UEDPIE_0_TestMap_Lee.TestMap_Lee up for play (max tick rate 60) at 2023.05.22-11.13.00
+[2023.05.22-09.13.00:549][920]LogWorld: Bringing up level for play took: 0.002065
+[2023.05.22-09.13.00:551][920]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.05.22-09.13.00:555][920]PIE: Server logged in
+[2023.05.22-09.13.00:556][920]PIE: Play in editor total start time 0,154 seconds.
+[2023.05.22-09.13.00:569][920]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.05.22-09.13.02:597][987]LogBlueprintUserMessages: [None] Attack: Left
+[2023.05.22-09.13.03:418][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-09.13.03:418][ 34]LogWorld: BeginTearingDown for /Game/Maps/Lee/UEDPIE_0_TestMap_Lee
+[2023.05.22-09.13.03:420][ 34]LogSlate: Window 'BossFightProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.05.22-09.13.03:426][ 34]LogWorld: UWorld::CleanupWorld for TestMap_Lee, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-09.13.03:426][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-09.13.03:429][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-09.13.03:435][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-09.13.03:465][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-09.13.03:465][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.22-09.13.03:466][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.05.22-09.13.03:473][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.22-09.13.03:495][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.05.22-09.13.16:292][420]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.05.22-09.13.16:316][420]LogContentBrowser: Creating deferred item: NewWorld
+[2023.05.22-09.13.16:324][421]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.05.22-09.13.22:387][785]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenuLevel
+[2023.05.22-09.13.22:389][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-09.13.22:392][785]LogContentBrowser: End creating deferred item NewWorld
+[2023.05.22-09.13.24:165][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.13.24:230][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lee/TestMap_Lee" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Maps/Lee/TestMap_Lee.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.22-09.13.24:263][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.22-09.13.24:300][890]LogSavePackage: Moving output files for package: /Game/Maps/Lee/TestMap_Lee
+[2023.05.22-09.13.24:301][890]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/TestMap_Lee078ECBED4D677E32D9340F9EDAFF3E0C.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Maps/Lee/TestMap_Lee.umap'
+[2023.05.22-09.13.24:308][890]LogFileHelpers: Saving map 'TestMap_Lee' took 0.078
+[2023.05.22-09.13.24:316][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.20 sec)
+[2023.05.22-09.13.24:321][890]AssetCheck: New page: Asset Save: TestMap_Lee
+[2023.05.22-09.13.24:322][890]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Lee/TestMap_Lee.TestMap_Lee
+[2023.05.22-09.13.25:937][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.22-09.13.27:019][983]LogSlate: Window 'Save Content' being destroyed
+[2023.05.22-09.13.27:028][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.13.27:105][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuLevel" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.22-09.13.27:134][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.22-09.13.27:137][983]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenuLevel
+[2023.05.22-09.13.27:137][983]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/MainMenuLevelDD6ABDB34CEA8ED01AB6DCBC4A8F2CB1.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap'
+[2023.05.22-09.13.27:144][983]LogFileHelpers: Saving map 'MainMenuLevel' took 0.039
+[2023.05.22-09.13.27:152][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1.32 sec)
+[2023.05.22-09.13.27:152][983]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Widgets/MainMenuLevel.MainMenuLevel
+[2023.05.22-09.13.27:152][983]Cmd: MAP LOAD FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.22-09.13.27:152][983]LightingResults: New page: Lighting Build
+[2023.05.22-09.13.27:152][983]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.05.22-09.13.27:154][983]LogWorld: UWorld::CleanupWorld for TestMap_Lee, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-09.13.27:155][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-09.13.27:155][983]MapCheck: New page: Map Check
+[2023.05.22-09.13.27:155][983]LightingResults: New page: Lighting Build
+[2023.05.22-09.13.27:182][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-09.13.27:185][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.22-09.13.27:188][983]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-09.13.27:188][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-09.13.27:217][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.22-09.13.27:252][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.22-09.13.27:254][983]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.05.22-09.13.27:254][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-09.13.27:255][983]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.22-09.13.27:267][983]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.22-09.13.27:297][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.22-09.13.27:305][983]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.22-09.13.27:305][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2023.05.22-09.13.27:305][983]LogFileHelpers: Loading map 'MainMenuLevel' took 0.154
+[2023.05.22-09.13.27:318][983]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.22-09.13.27:318][983]LogContentValidation: Display: Validating /Script/Engine.World /Game/Widgets/MainMenuLevel.MainMenuLevel
+[2023.05.22-09.13.29:797][126]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.22-09.13.30:614][162]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Widgets/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2023.05.22-09.13.30:615][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: ================================================
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Total job queries 93, among them cache hits 4 (4.30%)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 71 distinct outputs (82.56%)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: RAM used: 0.78 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Shaders Compiled: 9
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Jobs assigned 12, completed 9 (75.00%)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 1.12 s
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.18 s
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 1.33
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.34 s
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Average processing rate: 6.72 jobs/sec
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Total thread time: 6.13 s
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Total thread preprocess time: 0.46 s
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Percentage time preprocessing: 7.45%
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Effective parallelization: 4.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.78 sec, max 0.79 sec, min 0.77 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.73 sec, max 0.74 sec, min 0.72 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.58 sec, max 0.68 sec, min 0.48 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.15% of total time (compiled    3 times, average 0.78 sec, max 0.79 sec, min 0.77 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.62% of total time (compiled    3 times, average 0.73 sec, max 0.74 sec, min 0.72 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.89% of total time (compiled    2 times, average 0.58 sec, max 0.68 sec, min 0.48 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.34% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.05.22-09.13.31:251][162]LogShaderCompilers: Display: ================================================
+[2023.05.22-09.13.54:787][544]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-09.13.54:787][544]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-09.13.54:787][544]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.22-09.14.08:105][324]BlueprintLog: New page: Compile MainMenuLevel
+[2023.05.22-09.14.08:146][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.05.22-09.14.08:642][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.14.08:700][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuLevel" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.22-09.14.08:735][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.22-09.14.08:738][352]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenuLevel
+[2023.05.22-09.14.08:739][352]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/MainMenuLevel80B35C65448C782F337337AB46FC2009.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap'
+[2023.05.22-09.14.08:746][352]LogFileHelpers: Saving map 'MainMenuLevel' took 0.046
+[2023.05.22-09.14.08:754][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.43 sec)
+[2023.05.22-09.14.08:760][352]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.22-09.14.08:760][352]LogContentValidation: Display: Validating /Script/Engine.World /Game/Widgets/MainMenuLevel.MainMenuLevel
+[2023.05.22-09.14.09:699][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.14.09:760][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuLevel" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.22-09.14.09:791][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.22-09.14.09:794][409]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenuLevel
+[2023.05.22-09.14.09:795][409]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/MainMenuLevelE0ABFC594F8AB5875DE65296247DD11E.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap'
+[2023.05.22-09.14.09:801][409]LogFileHelpers: Saving map 'MainMenuLevel' took 0.041
+[2023.05.22-09.14.09:810][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.55 sec)
+[2023.05.22-09.14.09:815][409]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.22-09.14.09:815][409]LogContentValidation: Display: Validating /Script/Engine.World /Game/Widgets/MainMenuLevel.MainMenuLevel
+[2023.05.22-09.14.10:589][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.22-09.14.10:596][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-09.14.10:596][456]PIE: New page: PIE session: MainMenuLevel (22.05.2023, 13:14:10)
+[2023.05.22-09.14.10:618][456]LogPlayLevel: Creating play world package: /Game/Widgets/UEDPIE_0_MainMenuLevel
+[2023.05.22-09.14.10:620][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001487s)
+[2023.05.22-09.14.10:620][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Widgets/MainMenuLevel.MainMenuLevel to /Game/Widgets/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001528s)
+[2023.05.22-09.14.10:620][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.22-09.14.10:620][456]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.05.22-09.14.10:621][456]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2023.05.22-09.14.10:655][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.22-09.14.10:655][456]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.22-09.14.10:657][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.22-09.14.10:657][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-09.14.10:657][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-09.14.10:657][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-09.14.10:657][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-09.14.10:659][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.22-09.14.10:675][456]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.05.22-09.14.10:676][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-09.14.10:676][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-09.14.10:676][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-09.14.10:676][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.05.22-09.14.10:676][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.05.22-09.14.10:678][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.05.22-09.14.10:678][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.05.22-09.14.10:678][456]LogInit: FAudioDevice initialized.
+[2023.05.22-09.14.10:678][456]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2023.05.22-09.14.10:680][456]LogLoad: Game class is 'BP_GM_C'
+[2023.05.22-09.14.10:680][456]LogWorld: Bringing World /Game/Widgets/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 60) at 2023.05.22-11.14.10
+[2023.05.22-09.14.10:681][456]LogWorld: Bringing up level for play took: 0.000690
+[2023.05.22-09.14.10:683][456]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.05.22-09.14.10:687][456]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.22-09.14.10:687][456]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.22-09.14.10:687][456]PIE: Server logged in
+[2023.05.22-09.14.10:688][456]PIE: Play in editor total start time 0,092 seconds.
+[2023.05.22-09.14.12:678][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-09.14.12:678][569]LogWorld: BeginTearingDown for /Game/Widgets/UEDPIE_0_MainMenuLevel
+[2023.05.22-09.14.12:678][569]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-09.14.12:678][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-09.14.12:682][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-09.14.12:687][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-09.14.12:717][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-09.14.12:717][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.22-09.14.12:720][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.05.22-09.14.12:726][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.22-09.14.12:759][571]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.22-09.14.15:234][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.05.22-09.15.58:785][800]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-09.15.58:842][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.22-09.15.59:281][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-09.15.59:339][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-09.15.59:345][824]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-09.15.59:345][824]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuBFE8B4B2469E4D8E9021B98D38E179C7.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-09.15.59:352][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.62 sec)
+[2023.05.22-09.15.59:358][824]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-09.15.59:358][824]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-09.16.10:741][190]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-09.16.10:789][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
