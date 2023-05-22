@@ -1346,3 +1346,152 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.22-10.35.49:137][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.58 sec)
 [2023.05.22-10.35.49:141][903]AssetCheck: New page: Asset Save: IMC_Main
 [2023.05.22-10.35.49:142][903]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Game/IMC_Main.IMC_Main
+[2023.05.22-10.36.25:235][345]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-10.36.25:235][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-10.38.16:807][904]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.38.16:857][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.22-10.38.18:481][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.38.18:543][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.38.18:561][995]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.38.18:561][995]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu3C01E86946CAB5F69AD2578713F1A559.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.38.18:568][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.67 sec)
+[2023.05.22-10.38.18:575][995]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.38.18:576][995]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.38.25:780][422]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.38.25:839][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.22-10.38.26:428][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.38.26:492][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.38.26:510][453]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.38.26:510][453]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuC447CD6A40ABD2342A3E088AB03D10C2.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.38.26:519][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.76 sec)
+[2023.05.22-10.38.26:524][453]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.38.26:524][453]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.38.27:796][525]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.38.27:834][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.22-10.38.46:458][745]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.38.46:502][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.05.22-10.38.47:003][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.38.47:067][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.38.47:084][771]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.38.47:085][771]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuA09F50964687466E3B5C3B89B82D1774.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.38.47:093][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.85 sec)
+[2023.05.22-10.38.47:098][771]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.38.47:098][771]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.38.48:403][847]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.38.48:443][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.05.22-10.39.43:838][877]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.39.43:885][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.22-10.39.44:958][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.39.45:018][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.39.45:036][937]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.39.45:036][937]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu49B7F58E4E68A1E4A381978FA6BA1E41.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.39.45:045][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.94 sec)
+[2023.05.22-10.39.45:053][937]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.39.45:053][937]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.40.55:953][165]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.40.56:014][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.22-10.40.56:572][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.40.56:634][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.40.56:652][194]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.40.56:652][194]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu0EC0CDBF407378B88E137783FE53276B.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.40.56:662][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.03 sec)
+[2023.05.22-10.40.56:667][194]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.40.56:667][194]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.40.57:709][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.40.57:770][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuLevel" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.22-10.40.57:801][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.22-10.40.57:809][257]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenuLevel
+[2023.05.22-10.40.57:809][257]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/MainMenuLevel45C04714492B5E692D1309996C65F549.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/MainMenuLevel.umap'
+[2023.05.22-10.40.57:816][257]LogFileHelpers: Saving map 'MainMenuLevel' took 0.047
+[2023.05.22-10.40.57:825][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.15 sec)
+[2023.05.22-10.40.57:831][257]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.05.22-10.40.57:831][257]LogContentValidation: Display: Validating /Script/Engine.World /Game/Widgets/MainMenuLevel.MainMenuLevel
+[2023.05.22-10.40.58:660][307]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.40.58:696][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.22-10.42.05:470][436]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.42.05:517][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.22-10.42.06:357][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.42.06:414][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.42.06:433][481]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.42.06:433][481]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuC87AD8C94AD6255EED10DBA853C9802E.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.42.06:439][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.23 sec)
+[2023.05.22-10.42.06:446][481]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.42.06:446][481]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.42.08:261][588]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.42.08:297][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.22-10.42.39:581][655]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.42.39:624][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.22-10.42.40:126][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.42.40:174][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.42.40:192][681]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.42.40:193][681]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu5307CF0C443B07153D6C149555A67FD0.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.42.40:199][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.30 sec)
+[2023.05.22-10.42.40:204][681]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.42.40:204][681]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.42.52:487][404]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.42.52:544][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.22-10.42.53:086][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.42.53:147][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.42.53:165][433]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.42.53:165][433]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuCF1936BB40312B673365DAA0FBCFFC3C.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.42.53:174][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.39 sec)
+[2023.05.22-10.42.53:180][433]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.42.53:180][433]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.42.54:729][525]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.42.54:768][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.22-10.43.33:939][202]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.43.33:975][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.22-10.43.35:414][202]LogSlate: Window 'Save Content' being destroyed
+[2023.05.22-10.43.35:424][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.43.35:497][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.43.35:515][202]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.43.35:517][202]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenuFB68C68D4EF630425D0182B94EAC3293.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.43.35:528][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.50 sec)
+[2023.05.22-10.43.35:543][203]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.43.35:543][203]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.43.57:562][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.22-10.43.57:562][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.22-10.44.04:814][829]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.15:766][476]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.23:888][956]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.29:382][277]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.34:270][562]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.38:171][787]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.42:196][ 21]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.22-10.44.43:146][ 78]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.44.43:195][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.05.22-10.44.43:909][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.44.43:968][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.44.43:987][111]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.44.43:988][111]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu2250591F49B1869A142CF68BE1C38BFA.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.44.43:997][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2.58 sec)
+[2023.05.22-10.44.44:002][111]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.44.44:002][111]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.44.45:253][184]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.44.45:291][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.22-10.45.06:202][334]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.45.06:239][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.22-10.45.57:694][ 24]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.45.57:736][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.05.22-10.45.58:335][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.45.58:392][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.45.58:410][ 55]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.45.58:411][ 55]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu78ED1369445A5054276376B6F563154D.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.45.58:418][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.67 sec)
+[2023.05.22-10.45.58:424][ 55]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.45.58:424][ 55]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.46.01:171][217]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.46.01:212][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.05.22-10.46.25:296][351]LogEditorViewport: Clicking Background
+[2023.05.22-10.46.38:146][118]BlueprintLog: New page: Compile WB_MainMenu
+[2023.05.22-10.46.38:188][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.22-10.46.38:717][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.22-10.46.38:777][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/WB_MainMenu" FILE="../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset" SILENT=true
+[2023.05.22-10.46.38:797][145]LogSavePackage: Moving output files for package: /Game/Widgets/WB_MainMenu
+[2023.05.22-10.46.38:797][145]LogSavePackage: Moving '../../../../../../GitHub/BossfightProjekt/BossFightProject/Saved/WB_MainMenu438276974D14EE8E4B01F69EAE83E300.tmp' to '../../../../../../GitHub/BossfightProjekt/BossFightProject/Content/Widgets/WB_MainMenu.uasset'
+[2023.05.22-10.46.38:805][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2.75 sec)
+[2023.05.22-10.46.38:809][145]AssetCheck: New page: Asset Save: WB_MainMenu
+[2023.05.22-10.46.38:809][145]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/WB_MainMenu.WB_MainMenu
+[2023.05.22-10.46.40:093][222]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.05.22-10.46.40:130][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.22-10.46.57:864][336]LogEditorViewport: Clicking Background
